@@ -1,0 +1,17 @@
+<college>
+	<student roll_no="st-1">
+		<name>abc</name>
+		<mailid>abc@gmail.com</mailid>
+		<mobile>123456</mobile>
+	</student>
+	<student roll_no="st-2">
+		<name>def</name>
+		<mailid>def@gmail.com</mailid>
+		<mobile>155456</mobile>
+	</student>
+	<student roll_no="st-3">
+		<name>ghi</name>
+		<mailid>ghi@gmail.com</mailid>
+		<mobile>158456</mobile>
+	</student>
+</college>
